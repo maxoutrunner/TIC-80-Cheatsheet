@@ -5,9 +5,17 @@ body{
   background-color: red;
   margin-top:1px;
   margin-bottom: 1px;
-  list-style-image: none;
+  list-style-type: none;
+  padding:3px;
 }
 .operator{
+  padding: 3px;
   background-color: blue;
   margin: 2px;
+}
+.opnamediv{
+  background-color: lightgrey;
+}
+.opdescdiv{
+  background-color: white;
 }
